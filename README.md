@@ -1,6 +1,6 @@
 Olá!
 
-Meu nickname é wheezy, tenho 16 anos e sou estudante de Segurança da Informação e Developer.
+Meu nickname é wheezy, tenho 17 anos e sou estudante de Segurança da Informação e Developer.
 
 
 <p align="center">
